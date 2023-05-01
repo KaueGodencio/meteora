@@ -1,0 +1,69 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.div-novidades {
+    width: 325px;
+}
+
+.botao-lilas {
+    background-color: #9353FF;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+
+.fs-icone {
+    font-size: 5.5rem !important;
+}
+
+.fs-8 {
+    font-size: 0.8rem;
+}
+.fs-9 {
+    font-size: 0.9rem;
+}
+
+.radio-cor {
+    background-color: red !important;
+}
+
+.hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.alert-danger .close {
+    color: red;
+}
+
+#meumodal {
+    color: #000;
+}
+
+.custom-close-btn {
+    color: #fff;
+    text-shadow: none;
+    opacity: 1;
+    background-color: #9353ff; /* Substitua pela cor desejada */
+    border-color: #9353ff; /* Substitua pela cor desejada */
+  }
+
+
+@media(min-width: 768px) {
+
+    .div-novidades {
+        width: 696px;
+    }
+
+}
